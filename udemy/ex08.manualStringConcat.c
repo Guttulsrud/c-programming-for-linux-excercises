@@ -1,7 +1,7 @@
 //
 // Created by Håkon Guttulsrud on 10/13/19.
 //
-// Concatenating two strings without using library function strcat()
+// Concatenating two char-strings without using library function strcat()
 //
 #include <stdio.h>
 
