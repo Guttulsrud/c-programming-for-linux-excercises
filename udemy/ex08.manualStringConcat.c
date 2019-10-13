@@ -4,8 +4,6 @@
 // Concatenating two strings without using library function strcat()
 //
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
 void manualStringConcat(const char str1[],const char str2[], char result[]) {
     int i = 0;
