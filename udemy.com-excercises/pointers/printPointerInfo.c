@@ -19,9 +19,6 @@ void printPointerInfo() {
     printf("Value of the pointers target: %d\n", *pointer);
 }
 
-
-
-
 int main() {
 
 

@@ -1,5 +1,5 @@
 //
-// Created by Håkon Guttulsrud on 10/13/19.
+// Created by Håkon Guttulsrud
 //
 // Concatenating two char-strings without using library function strcat()
 //
